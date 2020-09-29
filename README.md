@@ -10,6 +10,7 @@ The CRIS-CAT can be self-administered and contains an audio feature that reads e
  
  
 References:
+
 1.Resnik, L, Plow, M, Jette, A. Development of the CRIS: A Measure of Community Reintegration of Injured Services Members, Journal of Rehabilitation Research and Development, 2009, 46(4) 469-480 PMCID: PMC3517188 
 
 2.Resnik L, Ni, P, Feng, T. Jette, A.  Development of a Computer Adaptive Test to Measure Community Reintegration, Journal of Rehabilitation Research and Development, 49(4) 557-566, 2012 PMID: 22773259.
@@ -19,6 +20,9 @@ References:
  
 Acknowledgements:
 VA HSR&D, SDR 07327
+
 VA HSR&D, DHA-070144
+
 RI Foundation 20052665
+
 National Research Service Award - #HS00011-22
