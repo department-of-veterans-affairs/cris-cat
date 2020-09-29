@@ -15,10 +15,11 @@ References:
 
 2.Resnik L, Ni, P, Feng, T. Jette, A.  Development of a Computer Adaptive Test to Measure Community Reintegration, Journal of Rehabilitation Research and Development, 49(4) 557-566, 2012 PMID: 22773259.
 
-3. Resnik, L, Borgia, M, Ni, Pirraglia, P, Jette, A.  Reliability, Validity and Administrative Burden of the Community Reintegration of Injured Service Members Computer Adaptive Test (CRIS-CAT), BMC Medical Research Methodology, 12(1): 145, 2012 PMCID: PMC3528459
+3.Resnik, L, Borgia, M, Ni, Pirraglia, P, Jette, A.  Reliability, Validity and Administrative Burden of the Community Reintegration of Injured Service Members Computer Adaptive Test (CRIS-CAT), BMC Medical Research Methodology, 12(1): 145, 2012 PMCID: PMC3528459
  
  
 Acknowledgements:
+
 VA HSR&D, SDR 07327
 
 VA HSR&D, DHA-070144
