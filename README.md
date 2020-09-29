@@ -1,6 +1,6 @@
 # CRIS-CAT
 
-This repository is the new home for the CRIS-CAT (Computer Adaptive Test version of the Community Reintegration Scale) software–. The artifact you see here is for download only and is maintained by the research.va.gov team.
+This repository is the new home for the CRIS-CAT (Computer Adaptive Test version of the Community Reintegration Scale) software. The artifact you see here is for download only and is maintained by the research.va.gov team.
 
 Artifacts are located in releases: https://github.com/department-of-veterans-affairs/cris-cat/releases
 
