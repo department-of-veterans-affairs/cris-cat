@@ -2,7 +2,8 @@
 
 This repository is the new home for the CRIS-CAT (Computer Adaptive Test version of the Community Reintegration Scale) software. The artifact you see here is for download only and is maintained by the research.va.gov team.
 
-Artifacts are located in releases: https://github.com/department-of-veterans-affairs/cris-cat/releases
+Artifacts are located in releases - [click here](https://github.com/department-of-veterans-affairs/cris-cat/releases)
+ to access the CRIS-CAT application.
 
 The CRIS-CAT is a computer adaptive test (CAT) version of the Community Integration of Injured Service Members (CRIS) measure.  The CRIS-CAT  allows accurate and precise measurement of Veteran community reintegration with minimal respondent burden.  It is suitable for use in clinical care and research. The CRIS-CAT and its software were developed through VA research funding and are freely available through this website.
 The CRIS-CAT is comprised of separate scales, each measuring a different aspect of community reintegration: frequency of participation, perceived limitations in participation and satisfaction with participation.  These scales can be utilized singly or in combination, chosen to best match the purpose of data collection.  
