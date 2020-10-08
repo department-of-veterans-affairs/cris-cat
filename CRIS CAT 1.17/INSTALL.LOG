@@ -1,0 +1,365 @@
+***  Installation Started 12/06/2017 11:33  ***
+Title: CRIS CAT 1.17 Installation
+Source: C:\Users\lrm\Downloads\CRIS CAT_1.17.EXE | 12-06-2017 | 11:33:24 | 52423590
+File Copy: C:\Windows\System32\dbgrid32.ocx | 03-13-2001 | 13:50:12 | 5.1.81.4 | 525352 | 2cf3bb14
+File Copy: C:\Windows\System32\msstdfmt.dll | 08-17-2001 | 13:18:18 | 6.0.88.4 | 118784 | 7c3ca4ac
+File Copy: C:\Program Files (x86)\Common Files\DESIGNER\msderun.dll | 08-17-2001 | 13:18:08 | 6.0.88.4 | 136192 | 2e2a412f
+File Copy: C:\Windows\System32\msde.dll | 08-17-2001 | 13:18:00 | 6.0.88.4 | 508928 | c80e46c1
+File Copy: C:\Windows\System32\msbind.dll | 03-13-2001 | 13:53:08 | 6.0.88.62 | 77824 | 4580ff76
+Made Dir: C:\Program Files (x86)\CRIS CAT 1.17
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\UNWISE.EXE | 11-05-2001 | 10:30:50 | | 165376 | 6ef8d7f9
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\CRIS CAT 1.17
+RegDB Val: CRIS CAT 1.17
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\CRIS CAT 1.17
+RegDB Val: C:\PROGRA~2\CRISCA~1.17\UNWISE.EXE C:\PROGRA~2\CRISCA~1.17\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+Made Dir: C:\Program Files (x86)\CRIS CAT 1.17\audio files
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\SAT.wav | 07-22-2011 | 13:24:56 | | 147584 | 88c83e55
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S117.wav | 11-17-2010 | 09:32:16 | | 130688 | 5a1d6a2b
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S113.wav | 11-17-2010 | 09:32:16 | | 152192 | 21d4e65b
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S111.wav | 11-17-2010 | 09:32:16 | | 129152 | bf30e0fe
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S108.wav | 11-17-2010 | 09:32:16 | | 172160 | 7396e138
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S105.wav | 11-17-2010 | 09:32:16 | | 127616 | 6073e729
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S103.wav | 11-17-2010 | 09:32:16 | | 136832 | 32cf1457
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\BEGIN.wav | 04-06-2011 | 09:54:20 | | 135296 | 1f5b4443
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\Domains.wav | 07-22-2011 | 13:24:56 | | 166016 | 6c636864
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E002.wav | 11-02-2010 | 10:48:30 | | 193664 | 837da548
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E004A.wav | 11-02-2010 | 10:48:30 | | 172160 | de2fbe39
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E006.wav | 11-02-2010 | 10:48:40 | | 169088 | 5d8ed5fa
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E007.wav | 11-02-2010 | 10:48:40 | | 198272 | 8f754ab4
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E009.wav | 11-02-2010 | 10:48:40 | | 166016 | 69925340
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E011.wav | 11-02-2010 | 10:48:40 | | 225920 | b4862455
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E013.wav | 11-02-2010 | 10:48:40 | | 155264 | 51a67e25
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E016.wav | 11-02-2010 | 10:48:40 | | 199808 | a061dc6d
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E017.wav | 11-02-2010 | 10:48:40 | | 162944 | 1a13b178
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E018.wav | 11-02-2010 | 10:48:40 | | 156800 | b0c51304
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E019.wav | 11-02-2010 | 10:48:40 | | 172160 | 8fc2a4a2
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E021.wav | 11-02-2010 | 10:48:40 | | 193664 | 35ceab22
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E024.wav | 11-02-2010 | 10:48:40 | | 184448 | d4dc8f8d
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E025.wav | 11-02-2010 | 10:48:46 | | 213632 | 99530274
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E029A.wav | 04-06-2011 | 09:54:30 | | 149120 | f974fdc9
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E030.wav | 11-02-2010 | 10:48:46 | | 175232 | a0959e01
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E031.wav | 11-02-2010 | 10:48:46 | | 175232 | b04496c9
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E032.wav | 11-02-2010 | 10:48:46 | | 169088 | 218b0051
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E033.wav | 11-02-2010 | 10:48:46 | | 178304 | ea1ada52
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E034.wav | 11-02-2010 | 10:48:46 | | 164480 | c21614ae
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E035.wav | 11-02-2010 | 10:48:46 | | 209024 | 747e9434
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E036.wav | 11-02-2010 | 10:48:46 | | 196736 | 82b89dc
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E039.wav | 11-02-2010 | 10:48:46 | | 162944 | f5b2ec02
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E042.wav | 11-02-2010 | 10:48:46 | | 156800 | fb3fbb27
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E044.wav | 11-02-2010 | 10:48:46 | | 201344 | db4c1150
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E046.wav | 11-03-2010 | 11:45:26 | | 199808 | d40dc8c8
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E047.wav | 04-08-2011 | 11:58:56 | | 155264 | dfae7b2e
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E048.wav | 11-03-2010 | 11:45:38 | | 149120 | 92a83d04
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E049.wav | 11-03-2010 | 11:45:38 | | 153728 | 2c44f1ef
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E057.wav | 11-03-2010 | 11:45:38 | | 182912 | 135bea32
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E058.wav | 11-03-2010 | 11:45:38 | | 162944 | 8e1895df
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E060.wav | 11-03-2010 | 11:45:38 | | 153728 | 74dbc332
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E061.wav | 11-03-2010 | 11:45:38 | | 133760 | 4a4f4a92
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E063.wav | 11-03-2010 | 11:45:38 | | 156800 | aef7ae5c
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E065.wav | 11-03-2010 | 11:45:38 | | 193664 | c32f7ee0
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E066.wav | 11-23-2010 | 08:58:12 | | 190592 | a4f46fbb
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E068.wav | 11-03-2010 | 11:45:38 | | 130688 | d4bd8382
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E069.wav | 11-03-2010 | 11:45:38 | | 149120 | 69d0869f
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E070.wav | 11-03-2010 | 11:45:38 | | 119936 | 3b0cde6e
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E072.wav | 11-03-2010 | 11:45:50 | | 135296 | b88b4765
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E073.wav | 11-03-2010 | 11:45:50 | | 146048 | 81c9bfad
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E074.wav | 11-03-2010 | 11:45:50 | | 110720 | 7e119acd
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E079.wav | 11-03-2010 | 11:45:50 | | 146048 | 8b840184
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E080.wav | 04-06-2011 | 09:54:30 | | 133760 | 71ddcbc4
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E081.wav | 04-06-2011 | 09:54:42 | | 133760 | e9aefb5e
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E082.wav | 04-06-2011 | 09:54:42 | | 126080 | e529cad9
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E084.wav | 04-06-2011 | 09:54:42 | | 139904 | 7a05efe8
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E085.wav | 04-06-2011 | 09:54:42 | | 135296 | e348358f
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E086.wav | 04-06-2011 | 09:54:42 | | 127616 | a2e0a49e
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E087.wav | 04-06-2011 | 09:54:42 | | 116864 | 3ae9ce1e
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E088.wav | 04-06-2011 | 09:54:42 | | 126080 | 758ee2c9
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E089.wav | 04-06-2011 | 09:54:42 | | 138368 | d79379a9
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E090.wav | 04-06-2011 | 09:54:42 | | 136832 | bbbc299f
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E091.wav | 04-06-2011 | 09:54:42 | | 139904 | 3aba3ed5
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E092.wav | 04-06-2011 | 09:54:42 | | 156800 | b3b62e0a
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E093.wav | 04-06-2011 | 09:54:42 | | 130688 | 309cb309
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E094.wav | 04-06-2011 | 09:54:54 | | 123008 | 9edfae99
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E095.wav | 04-06-2011 | 09:54:54 | | 130688 | a692566e
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E097.wav | 04-06-2011 | 09:54:54 | | 129152 | e290257
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E098.wav | 04-06-2011 | 09:54:54 | | 142976 | 91f3bd6
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E099.wav | 04-06-2011 | 09:54:54 | | 119936 | f924e6fd
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E100.wav | 04-06-2011 | 09:54:54 | | 147584 | f9717163
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E101.wav | 04-06-2011 | 09:54:54 | | 113792 | d0959515
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E102.wav | 04-06-2011 | 09:54:54 | | 116864 | 58f38a39
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E103.wav | 04-06-2011 | 09:54:54 | | 130688 | 80698d3e
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E105.wav | 04-06-2011 | 09:54:54 | | 169088 | aa989643
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E106.wav | 04-06-2011 | 09:54:54 | | 144512 | 10fa326d
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E107.wav | 04-06-2011 | 09:54:54 | | 126080 | 1cf33f87
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E108.wav | 04-06-2011 | 09:55:06 | | 119936 | 5d59d0ba
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E109.wav | 04-06-2011 | 09:55:06 | | 146048 | 5f9b4dd
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E110.wav | 04-06-2011 | 09:55:06 | | 127616 | d434a33f
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E112.wav | 04-06-2011 | 09:55:06 | | 161408 | 74db2117
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E115.wav | 11-02-2010 | 10:48:46 | | 164480 | ae1cb881
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E116.wav | 11-03-2010 | 11:45:38 | | 162944 | d77f7912
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E118.wav | 11-02-2010 | 10:48:46 | | 181376 | a6d58325
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E119.wav | 04-06-2011 | 09:55:06 | | 138368 | 410d07ed
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\E120.wav | 04-06-2011 | 09:55:06 | | 196736 | bf029196
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\EXT.wav | 07-21-2011 | 15:19:14 | | 288896 | d1b42f72
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P001.wav | 11-23-2010 | 08:58:12 | | 182912 | 3985977a
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P002.wav | 11-05-2010 | 08:13:16 | | 164480 | 4242e7ab
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P003.wav | 11-03-2010 | 11:46:24 | | 146048 | b6098eb3
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P004.wav | 11-03-2010 | 11:46:24 | | 129152 | 9a627a5e
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P005.wav | 11-03-2010 | 11:46:24 | | 147584 | 81a53eb0
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P006.wav | 11-03-2010 | 11:46:24 | | 153728 | e0f5b07a
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P007.wav | 11-03-2010 | 11:46:24 | | 162944 | 3adbd54a
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P008.wav | 11-03-2010 | 11:46:24 | | 136832 | 12640906
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P009.wav | 11-03-2010 | 11:46:24 | | 184448 | 765fc7ab
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P010.wav | 11-03-2010 | 11:46:24 | | 187520 | 487f0e65
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P011.wav | 11-03-2010 | 11:46:24 | | 170624 | bcd92e3c
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P012.wav | 11-03-2010 | 11:46:24 | | 156800 | 87af45fe
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P013.wav | 11-03-2010 | 11:46:24 | | 175232 | 8ffebf27
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P014.wav | 11-03-2010 | 11:46:24 | | 153728 | 787888bb
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P015.wav | 11-23-2010 | 08:58:12 | | 161408 | 86ae44c4
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P016.wav | 11-03-2010 | 11:46:36 | | 133760 | f9765a3c
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P017.wav | 11-03-2010 | 11:46:36 | | 129152 | 1ca818b9
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P018.wav | 11-03-2010 | 11:46:36 | | 119936 | 56b0f9aa
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P020.wav | 11-03-2010 | 11:46:36 | | 133760 | aa754d29
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P021.wav | 11-03-2010 | 11:46:36 | | 166016 | d675f0d2
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P022.wav | 11-23-2010 | 08:57:56 | | 178304 | 3cbd75de
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P023.wav | 11-05-2010 | 08:13:26 | | 146048 | ca733982
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P024.wav | 11-05-2010 | 08:13:26 | | 152192 | 43bdd99c
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P025.wav | 11-23-2010 | 08:57:56 | | 158336 | 131945c1
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P026.wav | 11-23-2010 | 08:57:56 | | 156800 | 522e11bf
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P027.wav | 11-05-2010 | 08:13:26 | | 153728 | cbab0256
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P029.wav | 11-23-2010 | 08:57:56 | | 169088 | ab81bfd4
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P030.wav | 11-05-2010 | 08:13:26 | | 179840 | e94269a9
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P032.wav | 11-05-2010 | 08:13:26 | | 130688 | 371e3de
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P033.wav | 11-05-2010 | 08:13:26 | | 144512 | a102a12d
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P036.wav | 11-05-2010 | 08:13:26 | | 149120 | 9d4af0e5
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P038.wav | 11-05-2010 | 08:13:26 | | 144512 | 8396dc1c
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P039.wav | 11-23-2010 | 08:58:00 | | 161408 | fe958769
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P040.wav | 11-23-2010 | 08:58:00 | | 133760 | 20026100
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P041.wav | 11-23-2010 | 08:58:12 | | 193664 | 5858275e
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P042.wav | 11-05-2010 | 08:13:38 | | 153728 | 3c6579a8
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P043.wav | 11-05-2010 | 08:13:38 | | 162944 | 537ac9ae
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P044.wav | 11-05-2010 | 08:13:38 | | 173696 | d4d7464
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P049.wav | 11-05-2010 | 08:13:38 | | 166016 | b9d099d3
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P050.wav | 11-16-2010 | 11:03:44 | | 142976 | 2b33c960
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P051.wav | 11-05-2010 | 08:13:38 | | 133760 | e013a242
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P052.wav | 11-05-2010 | 08:13:38 | | 135296 | e9ab2b1a
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P053.wav | 11-05-2010 | 08:13:38 | | 136832 | 89c87bb7
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P054.wav | 11-05-2010 | 08:13:38 | | 135296 | 3f8db763
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P055.wav | 11-05-2010 | 08:13:38 | | 139904 | 79c9f826
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P056.wav | 04-06-2011 | 09:55:16 | | 172160 | b71c24cf
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P057.wav | 04-06-2011 | 09:55:16 | | 161408 | 448ae139
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P058.wav | 04-06-2011 | 09:55:16 | | 139904 | 6a8af2c8
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P060.wav | 04-06-2011 | 09:55:16 | | 142976 | a3261958
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P062.wav | 04-06-2011 | 09:55:16 | | 152192 | 2ba18897
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P063.wav | 04-06-2011 | 09:55:16 | | 156800 | 4f882189
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P064.wav | 04-06-2011 | 09:55:16 | | 155264 | 5fda747a
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P065.wav | 04-06-2011 | 09:55:16 | | 144512 | de7f6d46
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P066.wav | 04-06-2011 | 09:55:16 | | 136832 | 9c03e662
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P067.wav | 04-06-2011 | 09:55:16 | | 136832 | 136905d9
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P068.wav | 04-06-2011 | 09:55:16 | | 152192 | ac949a9d
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P069.wav | 04-06-2011 | 09:55:28 | | 139904 | 39c3a830
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P070.wav | 04-06-2011 | 09:55:28 | | 153728 | 6a2f7bdc
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P071.wav | 04-06-2011 | 09:55:28 | | 149120 | 7b8f452e
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P072.wav | 04-06-2011 | 09:55:28 | | 144512 | fa00b25f
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P073.wav | 04-06-2011 | 09:55:28 | | 158336 | f3573f84
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P074.wav | 04-06-2011 | 09:55:28 | | 146048 | 2e81825a
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P074A.wav | 04-06-2011 | 09:55:28 | | 146048 | b75806cc
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P074C.wav | 04-06-2011 | 09:55:28 | | 152192 | baa28f7b
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P075.wav | 04-06-2011 | 09:55:28 | | 153728 | 1e64d48d
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P076.wav | 04-06-2011 | 09:55:28 | | 142976 | 697634d2
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P077.wav | 04-06-2011 | 09:55:40 | | 189056 | 7300fb7d
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P078.wav | 04-06-2011 | 09:55:40 | | 149120 | 287f2e0a
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P079.wav | 04-06-2011 | 09:55:40 | | 144512 | 2d689327
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P079A.wav | 04-06-2011 | 09:55:28 | | 144512 | a24ab555
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P080.wav | 04-06-2011 | 09:55:40 | | 187520 | 77cbdbe9
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P081.wav | 04-06-2011 | 09:55:50 | | 172160 | eb9ffc70
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P081A.wav | 04-06-2011 | 09:55:40 | | 161408 | 7b9124f6
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P082.wav | 04-06-2011 | 09:55:50 | | 136832 | c438ac61
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P082A.wav | 04-06-2011 | 09:55:40 | | 142976 | 42601eb7
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P083.wav | 04-06-2011 | 09:55:50 | | 126080 | 5a2df108
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P083A1.wav | 04-06-2011 | 09:55:40 | | 166016 | 578705fe
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P084.wav | 04-08-2011 | 11:58:56 | | 161408 | 922321e7
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P085.wav | 04-06-2011 | 09:55:40 | | 152192 | 8113bfbf
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P086.wav | 04-06-2011 | 09:55:50 | | 139904 | 47df742f
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P087.wav | 04-06-2011 | 09:55:50 | | 149120 | 5c4e4987
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P088.wav | 04-06-2011 | 09:55:50 | | 136832 | c41bd7ea
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P089.wav | 04-06-2011 | 09:55:50 | | 147584 | 750da342
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P090.wav | 04-06-2011 | 09:55:50 | | 139904 | 978862db
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P090A.wav | 04-06-2011 | 09:55:40 | | 138368 | bef436be
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P091.wav | 04-06-2011 | 09:55:50 | | 152192 | 3976b9ea
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P092.wav | 04-06-2011 | 09:56:02 | | 149120 | e8571e82
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P093.wav | 04-06-2011 | 09:56:02 | | 142976 | b427ad3c
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P094.wav | 04-06-2011 | 09:56:02 | | 158336 | f2b71746
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P095.wav | 04-06-2011 | 09:56:02 | | 152192 | 86b6d36a
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P096.wav | 04-06-2011 | 09:56:02 | | 129152 | 4fb34f2d
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P097.wav | 04-06-2011 | 09:56:02 | | 156800 | 370836fd
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P097A.wav | 04-06-2011 | 09:56:02 | | 181376 | 91bb40e
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P098.wav | 04-06-2011 | 09:56:02 | | 156800 | bc749e4b
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P099.wav | 04-06-2011 | 09:56:02 | | 161408 | d30a11d9
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P100.wav | 04-06-2011 | 09:56:14 | | 196736 | 1392b3cf
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P101.wav | 04-06-2011 | 09:56:14 | | 146048 | 128bc1c6
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P102A.wav | 04-06-2011 | 09:56:02 | | 153728 | 6b918a6d
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P102B.wav | 04-06-2011 | 09:56:14 | | 164480 | 4ff518db
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P103A.wav | 04-08-2011 | 11:58:56 | | 147584 | f471612f
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P106.wav | 04-06-2011 | 09:56:14 | | 149120 | 68372126
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P107.wav | 04-06-2011 | 09:56:14 | | 149120 | 7253ee0a
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P108.wav | 04-06-2011 | 09:56:14 | | 156800 | 5148ff47
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P109.wav | 04-06-2011 | 09:56:24 | | 198272 | 886ae42b
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P110.wav | 04-06-2011 | 09:56:24 | | 161408 | f173c528
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P111.wav | 04-06-2011 | 09:56:24 | | 136832 | 2c6445d5
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P112.wav | 04-06-2011 | 09:56:24 | | 153728 | dbaca00d
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P113.wav | 04-06-2011 | 09:56:24 | | 170624 | 720d1d2f
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P114.wav | 04-06-2011 | 09:56:24 | | 161408 | 3874e7d1
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P115.wav | 04-06-2011 | 09:56:24 | | 147584 | 90c3f331
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P116.wav | 04-06-2011 | 09:56:24 | | 139904 | 460b2851
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P117.wav | 04-08-2011 | 11:58:56 | | 149120 | 9d925d93
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P118.wav | 04-06-2011 | 09:56:24 | | 142976 | f1a93de9
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P119.wav | 04-06-2011 | 09:56:36 | | 198272 | 95e39e25
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P124C.wav | 04-06-2011 | 09:56:36 | | 153728 | 54445642
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P125A.wav | 04-06-2011 | 09:56:36 | | 144512 | 16a699ec
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P125B.wav | 04-06-2011 | 09:56:36 | | 164480 | 7be4d82c
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P126.wav | 04-06-2011 | 09:56:36 | | 158336 | ba20899d
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P127.wav | 04-06-2011 | 09:56:36 | | 166016 | db556aff
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P128.wav | 04-06-2011 | 09:56:36 | | 155264 | affe8728
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P129.wav | 04-06-2011 | 09:56:36 | | 136832 | d6007fd8
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P131.wav | 04-06-2011 | 09:56:36 | | 170624 | e56cef5a
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P133.wav | 04-06-2011 | 09:56:36 | | 166016 | a2ab971b
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P134.wav | 04-06-2011 | 09:56:48 | | 142976 | ec8a66c6
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P136.wav | 04-06-2011 | 09:56:48 | | 144512 | 4f905fd8
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P139.wav | 04-06-2011 | 09:56:48 | | 164480 | 5a73fbc3
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P140.wav | 04-06-2011 | 09:56:48 | | 135296 | e493304c
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P141.wav | 04-06-2011 | 09:56:48 | | 139904 | ecd22fae
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P142.wav | 04-06-2011 | 09:56:48 | | 182912 | dc3fa905
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P143.wav | 04-06-2011 | 09:56:48 | | 138368 | c2a2673d
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P144.wav | 04-06-2011 | 09:56:48 | | 172160 | 6033e344
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P145.wav | 04-06-2011 | 09:56:48 | | 142976 | 939defac
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P146.wav | 04-06-2011 | 09:56:48 | | 136832 | 7f384f17
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P147.wav | 04-06-2011 | 09:56:48 | | 152192 | d90fb24e
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P148.wav | 04-06-2011 | 09:56:48 | | 146048 | 4f82a80d
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P149.wav | 04-06-2011 | 09:56:48 | | 126080 | 103f8632
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P150.wav | 04-06-2011 | 09:56:58 | | 135296 | 440ecea3
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P151.wav | 04-06-2011 | 09:56:58 | | 149120 | be96169d
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P152.wav | 04-06-2011 | 09:56:58 | | 158336 | 12229421
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P153.wav | 04-06-2011 | 09:56:58 | | 153728 | ce9b15c0
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P154.wav | 04-06-2011 | 09:56:58 | | 166016 | e18d696d
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P155.wav | 04-06-2011 | 09:56:58 | | 152192 | e82cbd2b
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P157.wav | 11-16-2010 | 11:03:44 | | 156800 | cffde032
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\P159.wav | 11-16-2010 | 11:03:44 | | 147584 | 8b541a8e
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\PER.wav | 07-21-2011 | 15:19:14 | | 319616 | a59b7bb5
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\Q1.wav | 07-21-2011 | 15:19:14 | | 110720 | c9773918
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\Q2.wav | 07-21-2011 | 15:19:16 | | 118400 | 70d9b7ce
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\Q3.wav | 07-21-2011 | 15:19:16 | | 201344 | f3669fbb
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\Q4.wav | 07-21-2011 | 15:19:16 | | 87680 | fb462c4b
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S001.wav | 11-16-2010 | 11:03:56 | | 169088 | b30a7a41
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S004.wav | 11-16-2010 | 11:04:06 | | 170624 | e14ec572
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S005.wav | 11-16-2010 | 11:03:56 | | 153728 | 92a27df
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S006.wav | 11-16-2010 | 11:03:56 | | 155264 | e9d0a46e
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S007.wav | 11-16-2010 | 11:03:56 | | 144512 | 430348c6
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S008.wav | 11-16-2010 | 11:03:56 | | 164480 | 805b954d
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S009.wav | 11-16-2010 | 11:03:56 | | 156800 | c98b2b17
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S010.wav | 11-16-2010 | 11:04:06 | | 161408 | 86424d38
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S011.wav | 11-16-2010 | 11:04:06 | | 144512 | ccd5daa6
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S012.wav | 11-16-2010 | 11:04:06 | | 149120 | ff4fd1d7
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S013.wav | 11-17-2010 | 09:31:32 | | 164480 | a1e89c07
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S014.wav | 11-16-2010 | 11:04:06 | | 144512 | 320ddd58
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S015.wav | 11-16-2010 | 11:04:06 | | 149120 | 47fc317a
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S016.wav | 11-16-2010 | 11:19:32 | | 181376 | 23416645
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S017.wav | 11-16-2010 | 11:19:32 | | 144512 | 375b4dea
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S020.wav | 11-16-2010 | 11:19:38 | | 146048 | 4d717287
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S021.wav | 11-16-2010 | 11:19:38 | | 142976 | a33b3438
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S022.wav | 11-16-2010 | 11:19:38 | | 182912 | bd0b90da
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S023.wav | 11-16-2010 | 11:19:38 | | 196736 | 95097bca
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S024.wav | 11-16-2010 | 11:04:06 | | 164480 | 8e94dec6
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S025.wav | 11-16-2010 | 11:19:38 | | 158336 | f493af5b
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S026.wav | 11-17-2010 | 09:31:32 | | 144512 | 60799815
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S027.wav | 11-16-2010 | 11:19:38 | | 138368 | 61796667
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S028.wav | 11-16-2010 | 11:19:38 | | 164480 | 1b0c1122
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S029.wav | 11-16-2010 | 11:19:38 | | 178304 | a430e5a6
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S030.wav | 11-16-2010 | 11:19:38 | | 146048 | fdbdbefe
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S031.wav | 11-16-2010 | 11:19:38 | | 139904 | 77a42f00
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S033.wav | 11-16-2010 | 11:19:38 | | 146048 | 6d8fab26
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S034.wav | 11-16-2010 | 11:19:38 | | 138368 | 47043d26
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S036.wav | 11-23-2010 | 08:58:12 | | 181376 | d293cda8
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S037.wav | 11-16-2010 | 11:19:38 | | 129152 | c774698
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S038.wav | 11-16-2010 | 11:19:38 | | 136832 | fa8dee4e
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S039.wav | 11-16-2010 | 11:19:38 | | 142976 | f87ef234
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S040.wav | 11-17-2010 | 09:31:42 | | 181376 | 47433d9e
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S042.wav | 11-17-2010 | 09:31:42 | | 158336 | 56d7c39
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S043.wav | 11-17-2010 | 09:31:42 | | 162944 | a946485b
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S045.wav | 11-17-2010 | 09:31:42 | | 149120 | 22c4cbf2
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S046.wav | 11-17-2010 | 09:31:42 | | 142976 | ed8922e1
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S047.wav | 11-17-2010 | 09:31:42 | | 138368 | cd08d474
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S048.wav | 11-17-2010 | 09:31:42 | | 139904 | 64ab92fa
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S049.wav | 11-17-2010 | 09:31:42 | | 123008 | 54fdba41
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S051.wav | 11-17-2010 | 09:31:42 | | 135296 | 5e938567
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S053.wav | 11-17-2010 | 09:31:42 | | 129152 | 969d2454
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S054.wav | 11-17-2010 | 09:31:54 | | 175232 | d0b643b
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S057.wav | 11-17-2010 | 09:31:54 | | 144512 | b54eae8c
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S058.wav | 11-17-2010 | 09:31:54 | | 138368 | cff9419c
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S060.wav | 11-17-2010 | 09:31:54 | | 127616 | 77de5af0
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S061A.wav | 11-17-2010 | 09:32:16 | | 123008 | 9022a3f1
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S061B.wav | 11-17-2010 | 09:31:54 | | 138368 | 26d5bc60
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S064.wav | 11-17-2010 | 09:31:54 | | 139904 | fab3d8b6
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S065.wav | 11-17-2010 | 09:31:54 | | 147584 | 4b533149
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S066.wav | 11-17-2010 | 09:31:54 | | 149120 | 8abc75a2
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S068.wav | 11-23-2010 | 08:58:12 | | 149120 | dbaa2cf1
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S069B.wav | 11-17-2010 | 09:31:54 | | 155264 | 5e24ab02
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S070.wav | 11-17-2010 | 09:31:54 | | 201344 | f66fd4d6
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S072.wav | 11-17-2010 | 09:31:54 | | 153728 | 46d46543
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S073.wav | 11-17-2010 | 09:31:54 | | 149120 | ec435425
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S076.wav | 11-17-2010 | 09:31:54 | | 126080 | e53a12ca
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S077.wav | 11-17-2010 | 09:32:06 | | 136832 | 5d276ec
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S078.wav | 11-17-2010 | 09:32:06 | | 149120 | 837dff2e
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S079.wav | 11-17-2010 | 09:32:06 | | 144512 | d8c29198
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S080.wav | 11-17-2010 | 09:32:06 | | 136832 | 2bdc4e84
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S082.wav | 11-23-2010 | 08:58:12 | | 155264 | 61544141
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S083.wav | 11-17-2010 | 09:32:06 | | 144512 | fa783c46
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S084A.wav | 11-17-2010 | 09:32:06 | | 139904 | 8dc65c31
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S084B.wav | 11-17-2010 | 09:32:06 | | 135296 | 40a83054
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S085.wav | 11-17-2010 | 09:32:06 | | 135296 | 41bbf5c2
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S085A.wav | 11-17-2010 | 09:32:06 | | 133760 | cd7d6e52
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S086.wav | 11-17-2010 | 09:32:06 | | 139904 | 8448853
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S087.wav | 11-17-2010 | 09:32:06 | | 135296 | 2c5d60a2
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S088.wav | 11-17-2010 | 09:32:06 | | 133760 | 3990c70e
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S089.wav | 11-17-2010 | 09:32:06 | | 138368 | 94283fc7
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S091.wav | 11-17-2010 | 09:32:16 | | 146048 | 34069c63
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S093.wav | 11-17-2010 | 09:32:16 | | 146048 | be0494b
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S096.wav | 11-17-2010 | 09:32:16 | | 170624 | 5d72167b
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S098.wav | 11-17-2010 | 09:32:16 | | 139904 | 3d57bfeb
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S099.wav | 11-17-2010 | 09:32:16 | | 139904 | 578fb508
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S100.wav | 11-17-2010 | 09:32:16 | | 147584 | 465eac92
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S101.wav | 11-17-2010 | 09:32:16 | | 136832 | 98a32046
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\audio files\S102.wav | 11-17-2010 | 09:32:16 | | 181376 | bde6f4fb
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\db1.mdb | 03-13-2013 | 12:13:02 | | 1794048 | 4111b3cf
+File Copy: C:\Program Files (x86)\CRIS CAT 1.17\Cat_2.exe | 03-13-2013 | 12:12:40 | 1.0.0.0 | 237568 | d925d433
+File Copy: C:\Windows\System32\ComCtl32.ocx | 03-24-2009 | 11:52:40 | 6.0.98.16 | 614992 | 474365c2
+File Copy: C:\Windows\System32\MSComCt2.ocx | 03-24-2009 | 11:52:40 | 6.1.98.16 | 659264 | fd0e33ea
+File Overwrite: C:\Windows\System32\msbind.dll | 03-24-2009 | 12:52:30 | 6.1.98.16 | 84808 | efd4e104
+Version: Following file not copied.
+File Overwrite: C:\Windows\System32\FM20.DLL | 07-31-2015 | 08:56:38 | 16.0.4266.1001 | 1193320 | 218b1600
+File Copy: C:\Windows\System32\MSDBRPTR.DLL | 03-24-2009 | 13:52:36 | 6.1.98.16 | 328512 | ba8ee46c
+Shell Link: C:\Users\lrm\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\CRIS CAT 1.17.lnk
+Link Info: C:\Program Files (x86)\CRIS CAT 1.17\Cat_2.exe | C:\PROGRA~2\CRISCA~1.17\ | C:\PROGRA~2\CRISCA~1.17\Cat_2.exe | 0 | 1 | 0 | 
+Shell Link: C:\Users\lrm\Desktop\CRIS CAT 1.17.lnk
+Link Info: C:\Program Files (x86)\CRIS CAT 1.17\UNWISE.EXE | C:\PROGRA~2\CRISCA~1.17\ | C:\PROGRA~2\CRISCA~1.17\Cat_2.exe | 0 | 1 | 0 | /W1 "C:\Program Files (x86)\CRIS CAT 1.17\INSTALL.LOG"
+Self-Register: C:\Windows\System32\dbgrid32.ocx
+Self-Register: C:\Windows\System32\msstdfmt.dll
+Self-Register: C:\Program Files (x86)\Common Files\DESIGNER\msderun.dll
+Self-Register: C:\Windows\System32\msde.dll
+Self-Register: C:\Windows\System32\msbind.dll
+Self-Register: C:\Windows\System32\oleaut32.dll
+Self-Register: C:\Windows\System32\olepro32.dll
+Self-Register: C:\Windows\System32\stdole2.tlb
+Self-Register: C:\Windows\System32\msvbvm60.dll
+Self-Register: C:\Windows\System32\mfc42.dll
+Self-Register: C:\Windows\System32\MSCOMCTL.OCX
+Self-Register: C:\Windows\System32\COMDLG32.OCX
+Self-Register: C:\Windows\System32\ComCtl32.ocx
+Self-Register: C:\Windows\System32\MSComCt2.ocx
+Self-Register: C:\Windows\System32\msbind.dll
+Self-Register: C:\Windows\System32\FM20.DLL
+Self-Register: C:\Windows\System32\MSDBRPTR.DLL
+User Rights: Admin
